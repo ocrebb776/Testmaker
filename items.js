@@ -168,7 +168,7 @@ function gen(el, qu) {
 
 }
 const questions = [
-    ["mcq", ["Oliver", "Sam", "Dad", "Mum"], 1, "1)Select the best person ever"],
+    ["mcq", ["aOliver", "Sam", "Dad", "Mum"], 1, "1)Select the best person ever"],
     ["mcq", ["Mazie", "Mazie", "Mazie"], 1, "2)Select the Best dog ever"],
     ["short", "3)What is the worlds biggest animal?(1mks)"],
     ["short", "4)Ha"],
